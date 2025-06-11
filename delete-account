@@ -1,6 +1,30 @@
-<p>
-  To request deletion of your account and all associated data, please email us at
-  <a href="mailto:support@boardapp.example.com?subject=Account%20Deletion%20Request">
-    support@boardapp.example.com
-  </a>.
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>delete-account</title>
+  <style>
+    body { font-family: sans-serif; line-height: 1.6; padding: 2rem; max-width: 800px; margin: auto; }
+    h1, h2, h3 { color: #333; }
+    a { color: #1a0dab; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+
+  
+
+ 
+
+  <h2>Your Rights and Choices</h2>
+  <p>You can view or update your account info in the app settings. You may also request deletion of your account and all associated data:</p>
+  
+  <p>
+    To request deletion of your account and all associated data, please email us at surfkit.hello@gmail.com
+    
+  </p>
+
+  <!-- ... any remaining sections ... -->
+
+</body>
+</html>
